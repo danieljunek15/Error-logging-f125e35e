@@ -1,0 +1,11 @@
+Exception: je kan aleen een getal tussen 0 - 10 gebruiken. in C:\Users\Daniël\Documents\Bit Acedamy\Exercises\php web\lvl 3\Error-logging-f125e35e\error_log.php:9
+Stack trace:
+#0 C:\Users\Daniël\Documents\Bit Acedamy\Exercises\php web\lvl 3\Error-logging-f125e35e\error_log.php(16): countdown('12')
+#1 {main}
+Exception: je kan aleen een getal tussen 0 - 10 gebruiken. in C:\Users\Daniël\Documents\Bit Acedamy\Exercises\php web\lvl 3\Error-logging-f125e35e\error_log.php:9
+Stack trace:
+#0 C:\Users\Daniël\Documents\Bit Acedamy\Exercises\php web\lvl 3\Error-logging-f125e35e\error_log.php(16): countdown('12')
+#1 {main}Exception: je kan aleen een getal tussen 0 - 10 gebruiken. in C:\Users\Daniël\Documents\Bit Acedamy\Exercises\php web\lvl 3\Error-logging-f125e35e\error_log.php:9
+Stack trace:
+#0 C:\Users\Daniël\Documents\Bit Acedamy\Exercises\php web\lvl 3\Error-logging-f125e35e\error_log.php(16): countdown('11')
+#1 {main}
